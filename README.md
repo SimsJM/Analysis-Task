@@ -3,6 +3,6 @@ Jamie Sims's submission of the Revolut Analytical Home task for the role of Prod
 
 
 ## Contact Details:
-Email: jamie.michael.sims@gmail.com
-Phone: +44 7469 131 882
-Linkedin: https://www.linkedin.com/in/jamie-sims/
+<li> Email: jamie.michael.sims@gmail.com </li>
+<li> Phone: +44 7469 131 882 </li>
+<li> Linkedin: https://www.linkedin.com/in/jamie-sims/ </li>
